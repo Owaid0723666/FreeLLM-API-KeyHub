@@ -724,7 +724,7 @@
 
 | 字段 | 详情 |
 |------|------|
-| **平台名称** | [火山方舟 Coding Plan](https://www.volcengine.com/L/hzWpzSd88W8/) |
+| **平台名称** | [火山方舟 Coding Plan](https://volcengine.com/L/R-Ks0h6gPig) |
 | **套餐档位与价格** | **Lite**：40元/月<br>**Pro**：200元/月 |
 | **首月/活动优惠** | ✅ **前两月2.5折**：Lite **9.9元/月**，Pro **49.9元/月**（邀请价更低）<br>活动时间：即日起 ~ **2026.8.27** |
 | **支持模型** | 豆包Seed-2.0系列、GLM-5.1、**DeepSeek-V4**系列、Kimi K2.5、**MiniMax-M3**；支持Auto智能调度 |
